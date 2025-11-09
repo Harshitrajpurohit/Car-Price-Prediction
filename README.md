@@ -31,7 +31,7 @@ Data preprocessing, feature engineering, and model comparison are performed usin
 
 ```bash
 # Clone repository
-git clone https://github.com/Harshitrajpurohit/CarPricePrediction.git
+git clone https://github.com/Harshitrajpurohit/Car-Price-Prediction.git
 cd CarPricePrediction
 
 # Create virtual environment
